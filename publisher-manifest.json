@@ -1,0 +1,116 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "ca65305adaf59c0464ecfdfe",
+  "owner": "qhwchdra",
+  "repo": "page-6b007e766335eb5628c56962",
+  "title": "梯云纵",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6b007e766335eb5628c56962",
+      "a": "梯云纵",
+      "b": "",
+      "entity": "梯云纵",
+      "brand": "梯云纵",
+      "separator": "",
+      "path": "index.html",
+      "hash": "b1b333e00eb06785ec4cb0137b269cd4e013c331a4c3833efc885747ff6b8b5f",
+      "content": {
+        "keyword1": "梯云纵",
+        "keyword2": "",
+        "primary_entity": "梯云纵",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "梯云纵提供机场订阅与VPN梯子网络加速服务，覆盖跨境办公、流媒体与游戏加速，并给出官方客户端下载与配置说明。",
+          "AI_DESCRIPTION": "梯云纵提供机场订阅与VPN梯子网络加速服务，覆盖跨境办公、流媒体与游戏加速，并给出官方客户端下载与配置说明。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#eef0f4;color:#1a1a2e;font-size:16px;line-height:1.75}*{box-sizing:border-box}a{color:#6d28d9}img,svg{display:none}.wrap{max-width:960px;margin:0 auto;padding:0 16px}header{background:#5b21b6;color:#fff;padding:12px 0}header a{color:#f3e8ff;text-decoration:none;margin-right:12px;font-size:14px}h1{font-size:1.85rem;color:#4c1d95;margin:1.2rem 0 .5rem}h2{font-size:1.4rem;color:#5b21b6;margin:2rem 0 .8rem;border-bottom:2px solid #ddd6fe;padding-bottom:.3rem}h3{font-size:1.15rem;color:#4c1d95;margin:1rem 0 .4rem}p{margin:.55rem 0}.lead{font-size:1.05rem;color:#374151}.card{background:#fff;border-radius:12px;padding:1.2rem 1.35rem;margin:1rem 0;box-shadow:0 1px 3px rgba(91,33,182,.08)}.row{display:flex;gap:16px;align-items:stretch;margin:1rem 0}.row.reverse{flex-direction:row-reverse}.row>.card{flex:1;margin:0}.plans{display:flex;flex-wrap:wrap;gap:12px}.plan{flex:1 1 250px;background:#fff;border:1px solid #ddd6fe;border-radius:12px;padding:1.15rem}.plan.featured{border:2px solid #7c3aed;background:#f5f3ff}.price{font-size:1.35rem;color:#6d28d9;font-weight:700}.muted{color:#4b5563;font-size:.95rem}ul{padding-left:1.2rem;margin:.4rem 0}li{margin:.25rem 0}details{background:#fff;border:1px solid #e9d5ff;border-radius:8px;margin:.65rem 0;padding:.35rem .9rem}summary{font-weight:600;color:#5b21b6;cursor:pointer;padding:.5rem 0;font-size:1.02rem}.cta{display:inline-block;background:#7c3aed;color:#fff;padding:10px 18px;border-radius:8px;text-decoration:none;margin:.4rem 8px .4rem 0}.cta.alt{background:#4c1d95}footer{background:#3b0764;color:#e9d5ff;padding:1.5rem 0;margin-top:2rem;font-size:14px}footer a{color:#ddd6fe;text-decoration:none;margin-right:10px}#faq{padding-top:.4rem}@media (max-width:720px){.row,.row.reverse{flex-direction:column}.plans{flex-direction:column}h1{font-size:1.55rem}header a{display:inline-block;margin-bottom:4px}}</style><header><div class=\"wrap\"><nav><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#links\">友链</a><a href=\"#sitemap\">网站地图</a></nav></div></header><main class=\"wrap\"><h1>梯云纵</h1><p class=\"lead\" id=\"intro\">梯云纵是面向跨境访问与日常加速需求的机场订阅服务，提供 VPN 梯子网络加速、稳定节点与多端客户端。本站为梯云纵官方网站，集中说明套餐、使用场景、配置步骤与官网下载入口，便于一次完成订阅与客户端接入。</p><section class=\"card\"><h2>品牌简介</h2><p>梯云纵把线路、订阅与客户端放在同一套说明里：用户先按流量与设备数选择套餐，再在下载专区获取对应客户端并导入订阅。服务定位是网络加速器，而不是一次性节点列表。基础版适合轻度浏览与少量流媒体；旗舰版强调原生解锁与游戏向 IPLC；团队版面向多设备与定制路由。</p><p>官方身份以本页信息为准。订阅成功后即可在客户端中更新机场订阅，切换香港、东京、新加坡、洛杉矶等线路。我们不展示虚构评分，以下内容只描述可核对的套餐条款、操作路径与常见限制。</p><p><a class=\"cta\" href=\"#plans\">查看套餐</a><a class=\"cta alt\" href=\"#download\">前往官网下载</a></p></section><section id=\"scenes\"><h2>使用场景</h2><div class=\"row\"><article class=\"card\"><h3>跨境办公与云协作</h3><p>远程登录企业邮箱、代码仓库和云控制台时，延迟抖动会打断会话。梯云纵将办公常用地区放入常规节点池，旗舰版与团队版可优先走专线，减少远程桌面卡顿与大文件同步失败。</p></article><article class=\"card\"><h3>流媒体与资料检索</h3><p>基础版解锁常见影视站点的基础线路；旗舰版强调全节点原生流媒体解锁，适合长时间播放。学术数据库、公开课与软件源也可通过加速器降低超时概率。</p></article></div><div class=\"row reverse\"><article class=\"card\"><h3>游戏与实时语音</h3><p>对局与组队语音对丢包敏感。旗舰版包含 IPLC 专线游戏加速优化，团队版另有 VIP 高带宽节点，适合同时开麦、下载补丁和直播推流。</p></article><article class=\"card\"><h3>多设备家庭与小团队</h3><p>同一订阅可按套餐限制同时在线。家庭共用基础或旗舰版即可覆盖手机、电脑和平板；工作室把账号收口到团队版，由客户经理协助划分路由策略。</p></article></div></section><section id=\"plans\"><h2>机场订阅套餐</h2><p>价格以月付为基准，年付可锁定优惠。流量按自然月重置，不结转。以下三档为当前固定方案。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div><p>需要先确认设备数量与峰值带宽，再决定是否升级。流量耗尽后当月加速会降速或暂停，次月自动恢复额度。</p></section><section id=\"guide\" class=\"card\"><h2>操作说明</h2><h3>一、完成机场订阅</h3><p>在套餐区选定基础版、旗舰版或团队版，按月或按年开通。开通后账户内会生成订阅链接。请只在官方网站复制该链接，避免第三方转发造成泄漏。</p><h3>二、安装客户端</h3><p>打开本页下载专区，按系统选择 Windows、macOS、Android 或 iOS 说明。进阶用户可使用 Clash Meta、Surge、Shadowrocket 等兼容订阅的工具。安装包校验信息写在下载条目旁，请勿从网盘或群文件获取所谓破解版。</p><h3>三、导入并连接</h3><p>将订阅链接粘贴到客户端的订阅栏并更新节点。首次建议选择延迟较低的邻近节点测试网页与视频；游戏再切到 IPLC 或标注加速的线路。多设备同时在线时，不要超过套餐台数。</p><h3>四、日常维护</h3><p>线路调整后点击更新订阅即可。若某个节点超时，先换同地区备用节点，再提交工单。旗舰版与团队版工单队列优先。更换设备前先在旧设备断开，以免占用在线名额。</p></section><section class=\"card\"><h2>节点与线路说明</h2><p>梯云纵节点池包含香港、东京、新加坡、洛杉矶、伦敦等常用出口。普通线路适合网页与轻量下载；旗舰版开放 IPLC 游戏优化与原生流媒体出口；团队版在此基础上划分 VIP 高带宽段，并可按域名或 IP 定制分流。</p><p>延迟随时段波动属于正常现象。晚高峰优先使用专线。我们不承诺固定 IP，也不把测速截图当作合同条款。若业务强依赖出口画像，请走团队版客户经理评估。</p></section><section id=\"download\" class=\"card\"><h2>客户端下载</h2><p>以下为梯云纵官网下载指引。实际安装包随版本更新，请始终从本站进入下载专区，而不是搜索引擎广告页。</p><ul><li>Windows 桌面端：适合导入订阅、分流规则与系统代理，安装后重启客户端再更新节点。</li><li>macOS 桌面端：与系统网络扩展配合，建议允许必要权限后再开启全局或规则模式。</li><li>Android 应用：可后台保持连接，注意省电策略不要强制杀掉加速进程。</li><li>iOS 应用：通过兼容客户端导入机场订阅，按系统要求添加 VPN 配置描述。</li><li>Clash Meta / Surge 等：粘贴同样的订阅地址，定期手动更新以防规则过期。</li></ul><p><a class=\"cta\" href=\"#download\">获取官方客户端</a><a class=\"cta alt\" href=\"#faq\">先看常见问题</a></p><p class=\"muted\">下载地址入口设于本页，不通过短信短链分发。若页面被镜像，请核对域名是否为 tiyunzong.com。</p></section><section id=\"faq\"><h2>常见问题</h2><p>以下问题按实际开通与使用顺序排列。展开即可阅读完整说明。</p><details><summary>梯云纵是什么服务？和普通加速器有何不同？</summary><p>梯云纵是带机场订阅的 VPN 梯子网络加速服务。用户购买套餐后获得可更新的节点列表，而不是一次性配置文件。差别主要在可更换线路、按流量计费以及多端共用。本页同时承担官方网站与客户端下载说明，避免把订阅和软件拆到不同来源。</p></details><details><summary>如何完成官网下载并导入订阅？</summary><p>先登录已开通的账户复制订阅链接，再回到本页下载专区选择系统对应的客户端。安装完成后，在订阅栏粘贴链接并更新。若更新失败，检查是否复制了完整 URL、系统时间是否准确，以及是否超过同时在线设备数。</p></details><details><summary>三个套餐该怎么选？年付如何计算？</summary><p>轻度浏览、三台设备以内选基础版（¥15/月，年付 ¥150）。需要原生流媒体、游戏专线和五台设备选旗舰版（¥35/月，年付 ¥350）。二十台设备、定制路由和小团队管理选团队版（¥85/月，年付 ¥850）。年付按 10 个月价格锁定全年，中途降级不退差额。</p></details><details><summary>流量、设备数和流媒体解锁如何限制？</summary><p>流量按自然月统计，看视频和下载会明显消耗额度。基础版 100GB 且仅基础流媒体；旗舰版 300GB 并强调全节点原生解锁；团队版 1000GB。同时在线分别是 3、5、20 台。超过台数时新设备无法握手，需要先断开空闲会话。</p></details><details><summary>游戏加速是否必须旗舰版？普通线路能不能打游戏？</summary><p>可以在普通节点尝试，但晚高峰丢包会更明显。旗舰版的 IPLC 专线游戏加速优化针对对局与语音；团队版再叠加 VIP 高带宽。若只是偶尔匹配，可先用基础版测试延迟，再决定是否升级。</p></details><details><summary>工单响应和团队版客户经理包含什么？</summary><p>基础版走常规队列。旗舰版提供 7x24 优先工单，适合线路故障和订阅无法更新。团队版额外配备专属客户经理，可讨论企业定制路由、出口偏好和批量设备接入，不包含代运维操作系统。</p></details><details><summary>节点会更换吗？订阅泄漏怎么办？</summary><p>为了维护可用性，出口会不定期调整，客户端更新订阅即可拿到新列表。订阅链接等同口令，不要发到公开群。若怀疑泄漏，在账户内重置订阅，使旧链接失效，然后在所有设备重新导入。</p></details></section><section class=\"card\" id=\"ads\"><h2>合作展示</h2><p>梯云纵官方网站可放置与网络加速、远程办公相关的文字合作信息，不嵌入外部脚本或跳转跟踪。</p><p>合作一：跨境协作手册——整理时区、会议软件与专线选择的对照说明，适合正在评估旗舰版的团队。</p><p>合作二：流媒体设备清单——按电视盒、手机、电脑列出常见播放方式，帮助用户判断基础解锁是否足够。</p></section><section class=\"card\" id=\"links\"><h2>友情链接</h2><p><a href=\"#\">远程办公手册</a> <a href=\"#\">流媒体设置笔记</a> <a href=\"#\">路由分流入门</a> <a href=\"#\">多设备同步建议</a> <a href=\"#\">工单提交规范</a></p></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\" id=\"sitemap\"><h2>网站地图</h2><p><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐订阅</a><a href=\"#guide\">操作说明</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作展示</a><a href=\"#links\">友情链接</a></p><p>梯云纵官方网站 · 机场订阅与 VPN 梯子加速器 · 仅通过本站公布客户端下载与套餐信息</p></div></footer>",
+          "hash": "005bc1a54bacf573f905f81bd9b5ad3eb668259835e02ec31249eb8eef9fd533",
+          "seo": {
+            "title": "梯云纵官网 | VPN梯子网络加速器与机场订阅客户端下载",
+            "keywords": "梯云纵,梯云纵机场,梯云纵VPN,网络加速器,梯子,机场订阅,客户端下载,官网下载,IPLC加速",
+            "description": "梯云纵提供机场订阅与VPN梯子网络加速服务，覆盖跨境办公、流媒体与游戏加速，并给出官方客户端下载与配置说明。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "sample-studio.cn",
+    "host": "p-98f132827f.sample-studio.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "t8z7qc.cn",
+      "url": "https://t8z7qc.cn/",
+      "label": "梯云纵",
+      "apex": "t8z7qc.cn",
+      "kind": null,
+      "identity": "kdnuyav/page-f4b2e8673762f7d5c397f23d"
+    },
+    {
+      "host": "tynuntr.cn",
+      "url": "https://tynuntr.cn/",
+      "label": "梯云纵",
+      "apex": "tynuntr.cn",
+      "kind": null,
+      "identity": "trvmrbhaw/page-20b8a9ed130fb382faa24dc6"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8cea348c6f65a7bd96d0647a6800730c2e6f50000a906282525d66f8eaab0c27",
+    "sitemap.xml": "709a162c491380feadddd74faba677f5c5510b8e09d3724886e69565354c9f87",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d43b7ef3209ea1dd004069a0d5f947eb4fd3ccbb083cd0541a3442ab966de4d6",
+    "robots.txt": "b54d2504ae68a6d92954026258c2943afeb7f13f93801da7ce8d04b450efed36",
+    "5d6985205341f072a52157213d885645.txt": "4aca79a0ce1f9e55af4967a96b311be8b32d2e0736dad7c851766872270f1951"
+  },
+  "revision": "879994bc376f913d995d5819f3d88444e268ea6b6e879712754d23cf88c8fa11"
+}
